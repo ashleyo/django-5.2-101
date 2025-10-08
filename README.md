@@ -1,1 +1,1 @@
-[using](https://fastapi.tiangolo.com/tutorial)
+Standard python tutorials as jump-off point and for examples
